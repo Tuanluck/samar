@@ -34,6 +34,9 @@ sarma-clone/
 │   └── ...           # Tất cả hình ảnh được sử dụng
 └── README.md         # File mô tả dự án (bạn đang đọc)
 
+---
+
+
 ## 📚 Ghi chú thêm
 - Dự án không mang tính thương mại.
 
