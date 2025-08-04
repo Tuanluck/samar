@@ -33,8 +33,16 @@ sarma-clone/
 ├── img/
 │   └── ...           # Tất cả hình ảnh được sử dụng
 └── README.md         # File mô tả dự án (bạn đang đọc)
-```
 
+```
+## 🛠️ Cách sử dụng
+
+Nếu bạn muốn tải và chạy dự án này trên máy tính cá nhân:
+
+```bash
+git clone https://github.com/tuanluck/sarma-clone.git
+cd sarma-clone
+mở file index.html bằng trình duyệt
 ---
 
 ## 📚 Ghi chú thêm
@@ -47,6 +55,3 @@ sarma-clone/
   - 💼 Vai trò: Học viên Frontend  
   - 📧 Email: [nguyenanhtuan9690@gmail.com](mailto:nguyenanhtuan9690@gmail.com)  
 
-- Sắp xếp nội dung để dễ đọc và chuyên nghiệp hơn.
-- Thêm link "Link triển khai" với định dạng nhấp chuột được.
-- Làm mượt ngôn ngữ để tạo phong cách chuyên nghiệp.
