@@ -33,3 +33,15 @@ sarma-clone/
 ├── img/
 │   └── ...           # Tất cả hình ảnh được sử dụng
 └── README.md         # File mô tả dự án (bạn đang đọc)
+
+## 📚 Ghi chú thêm
+- Dự án không mang tính thương mại.
+
+- Dùng để luyện tập kỹ năng clone giao diện thực tế.
+
+- Trong tương lai có thể nâng cấp thêm hiệu ứng, responsive hoặc chuyển sang dùng các công nghệ hiện đại như Tailwind CSS, React,...
+
+## 📧 Liên hệ
+* Nguyễn Anh Tuấn
+- 💼 Vai trò: Frontend Learner
+- 📧 Email: nguyenanhtuan9690@gamil.com
