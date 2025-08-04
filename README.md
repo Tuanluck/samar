@@ -7,7 +7,7 @@
 Xin chào! Mình là **Nguyễn Anh Tuấn**, đây là một **dự án cá nhân** được thực hiện nhằm **học tập và nâng cao kỹ năng phát triển web cơ bản**. Dự án này tái hiện lại **trang chủ của Sarma** (một mẫu landing page đẹp mắt) bằng cách sử dụng HTML, CSS và thư mục ảnh (`img`) để tạo ra giao diện một cách đơn giản nhất có thể.
 
 🚀 **Link triển khai:**  
-👉 [sarma.netlify.app/](http//sarma.netlify.app)
+👉 [[sarma.netlify.app/](http//sarma.netlify.app)](https://sarma.netlify.app/)
 
 ---
 
